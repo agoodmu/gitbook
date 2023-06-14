@@ -11,6 +11,14 @@
 * [How updates work](service/how-updates-work.md)
 * [Accessibility](service/accessibility.md)
 
+## GitOps
+
+* [Terraform](gitops/terraform/README.md)
+  * [Limitations](gitops/terraform/limitations.md)
+* [Brand Guidelines](gitops/brand-guidelines.md)
+* [How updates work](gitops/how-updates-work.md)
+* [Accessibility](gitops/accessibility.md)
+
 ## identity
 
 * [Logos](identity/logos.md)
