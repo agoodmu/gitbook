@@ -7,7 +7,8 @@
 * [CCI](service/cci/README.md)
   * [Network](service/cci/network.md)
   * [Limitations](service/cci/limitations.md)
-* [Brand Guidelines](service/brand-guidelines.md)
+* [VPC](service/vpc/README.md)
+  * [Limitations](service/vpc/limitations.md)
 * [How updates work](service/how-updates-work.md)
 * [Accessibility](service/accessibility.md)
 
