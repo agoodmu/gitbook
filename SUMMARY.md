@@ -27,8 +27,8 @@
 * [Typography](identity/typography.md)
 * [Imagery](identity/imagery.md)
 
-## Components
+## Troubleshooting
 
-* [Icons](components/icons.md)
-* [Buttons](components/buttons.md)
-* [Inputs](components/inputs.md)
+* [RemoteDev](troubleshooting/remotedev.md)
+* [Buttons](troubleshooting/buttons.md)
+* [Inputs](troubleshooting/inputs.md)
