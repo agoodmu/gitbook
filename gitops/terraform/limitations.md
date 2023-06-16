@@ -8,3 +8,4 @@ description: List of limitations when using Terraform
 
 * Can not delete projects. It will be disabled when deleted through Terraform
 * Creating project through Terraform with used name will lead to error
+* can not create IAM agency for cloud services

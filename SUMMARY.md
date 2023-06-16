@@ -9,7 +9,8 @@
   * [Limitations](service/cci/limitations.md)
 * [VPC](service/vpc/README.md)
   * [Limitations](service/vpc/limitations.md)
-* [How updates work](service/how-updates-work.md)
+* [IAM](service/iam/README.md)
+  * [Limitations](service/iam/limitations.md)
 * [Accessibility](service/accessibility.md)
 
 ## GitOps
