@@ -11,7 +11,8 @@
   * [Limitations](service/vpc/limitations.md)
 * [IAM](service/iam/README.md)
   * [Limitations](service/iam/limitations.md)
-* [Accessibility](service/accessibility.md)
+* [SWR](service/swr/README.md)
+  * [Untitled](service/swr/untitled.md)
 
 ## GitOps
 

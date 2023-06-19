@@ -13,3 +13,7 @@ description: List of limitations when using Terraform
 ## IAM
 
 * can not create IAM agency for cloud services
+
+## SWR
+
+* can not delete organization with repository and images
